@@ -8,3 +8,5 @@ if __name__ == '__main__':
     elec_month = pd.read_csv("./data/训练组_比特币挖矿_月用电明细（20211217）.csv")
     target = pd.read_csv("./data/训练组_比特币挖矿_疑似用户明细（20211217）.csv ", index_col="id")
     print(target.head())
+
+

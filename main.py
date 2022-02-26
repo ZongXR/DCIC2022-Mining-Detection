@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import matplotlib.pyplot as plt
 import pandas as pd
 import time
@@ -19,5 +18,4 @@ from joblib import dump, load
 from tensorflow.keras.backend import epsilon
 from itertools import combinations
 from imblearn.over_sampling import SMOTE, ADASYN
-
-
+from tsfresh import extract_relevant_features

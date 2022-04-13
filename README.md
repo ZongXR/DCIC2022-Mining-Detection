@@ -1,7 +1,7 @@
 <h1>虚拟货币“挖矿”行为识别</h1>
 <a href="https://www.dcic-china.com/competitions/10025" target="_blank">比赛链接</a>
 <h2>赛道背景</h2>
-<img src="https://s3.cn-north-1.amazonaws.com.cn/files.datafountain.cn/uploads/admin/editor/2022-02-22/%E5%A4%A7%E6%95%B0%E6%8D%AE-350197.jpg" alt="赛道背景" />
+<img src="http://s3.cn-north-1.amazonaws.com.cn/files.datafountain.cn/uploads/admin/editor/2022-02-22/%E5%A4%A7%E6%95%B0%E6%8D%AE-350197.jpg" alt="赛道背景" />
 <h2>赛题介绍</h2>
 <h3>赛题名称：</h3>
 虚拟货币“挖矿”行为识别<br />
@@ -12,7 +12,7 @@
 <h3>赛题任务：</h3>
 给定某区域企业近两年节假日用电量、月用电量等特征数据，要求根据样本所提供数据构建相关算法模型，在样本用户中识别筛选出疑似虚拟货币“挖矿”行为用户。<br />
 <h2>赛道组织</h2>
-<img src="https://s3.cn-north-1.amazonaws.com.cn/files.datafountain.cn/uploads/admin/editor/2022-03-08/%E7%BB%84%E7%BB%87%E5%8D%95%E4%BD%8DV6-195669.jpg" alt="赛道组织" />
+<img src="http://s3.cn-north-1.amazonaws.com.cn/files.datafountain.cn/uploads/admin/editor/2022-03-08/%E7%BB%84%E7%BB%87%E5%8D%95%E4%BD%8DV6-195669.jpg" alt="赛道组织" />
 <h2>排名结果</h2>
 <table>
 <tr>

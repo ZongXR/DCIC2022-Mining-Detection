@@ -122,3 +122,5 @@ venv
 **.ipynb_checkpoints
 
 logs
+
+data/B组_比特币挖矿_日用电明细（20220313）.csv
